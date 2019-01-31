@@ -1,2 +1,2 @@
-# 2019-MCM-ICM-D
+# 离散网络疏散模型
 Louvre model
